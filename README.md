@@ -1,2 +1,2 @@
 # integrationCalculator
-Integrated Engineering Calculus Project, create an integration calculator using java.
+Integrated Engineering Calculus 2 Project, create an integration calculator using java.
